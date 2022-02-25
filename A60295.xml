@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Arthur Haselrig's last will and testament with a briefe survey of his life and death</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60295</idno>
+            <idno type="STC">Wing S3873</idno>
+            <idno type="STC">ESTC R12781</idno>
+            <idno type="EEBO-CITATION">11914028</idno>
+            <idno type="OCLC">ocm 11914028</idno>
+            <idno type="VID">50874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Arthur Haselrig's last will and testament with a briefe survey of his life and death</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hesilrige, Arthur, --  Sir, d. 1661 --  Caricatures and cartoons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50874:1"/>
+            <pb facs="tcp:50874:1"/>
+            <p>Sir <hi>Arthur Haſelrig's</hi> LAST Will and Teſtament. With a briefe SURVEY OF HIS LIFE and DEATH.</p>
+            <p>
+               <hi>LONDON,</hi>
+            </p>
+            <p>Printed for <hi>Henry Brome,</hi> and are to be ſold at his ſhop at the ſign of the <hi>Gun</hi> in <hi>Ivy-lane,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50874:2"/>
+            <pb n="1" facs="tcp:50874:2"/>
+            <head>Sir <hi>ARTH<g ref="char:V">Ʋ</g>R HASELRIG</hi>'S LAST VVILL &amp; TESTAMENT, WITH A briefe Survey of his <hi>LIFE</hi> and <hi>DEATA.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg> Death, how unwelcome art thou to a <hi>troubled Spirit?</hi> Is my long hanting after <hi>worldly Ho<g ref="char:EOLhyphen"/>nour,</hi> and fiſhing after <hi>Church Lands</hi> to inlarge mine Inheritance by an injurious ſurprizall of others Rights, brought to this Precipice? Yes moſt juſtly; that Sacred-ſecret Synod, from which all my <hi>ſiniſter Actions</hi> have ever pe<g ref="char:EOLhyphen"/>remptorily appealed, has juſtly and irrevocably decreed, that <hi>ARTH<g ref="char:V">Ʋ</g>R,</hi> who was once ſuch an eminent <hi>Champion</hi> at the ROUND TABLE, ſhould be now deſerted, nay ſhamefully ſtripped of thoſe <hi>weak ſtayes,</hi> whereon He, miſera<g ref="char:EOLhyphen"/>ble He, in the height of his <hi>ſwelling Fortunes</hi> ſo ſtrongly relyed, and imprudently doated. Ah me! what an eye-ſore is this to ſee <hi>Lawn-ſleeves</hi> riſe to their wonted height: and my blaſted Honour ſinking down with contempt into a diſconſolate Depth! O <hi>Biſhoprick,</hi> where in my <hi>Regality</hi> I ſo much <hi>Sove<g ref="char:EOLhyphen"/>raigniz'd,</hi> or, as ſome will have it, <hi>Tyranniz'd;</hi> muſt I now leave thee, and leaving thee recommend thee to a <hi>Prelacy,</hi> which was moſt hated by me? Though for pity ſake that <hi>Pre<g ref="char:EOLhyphen"/>latical
+<pb n="2" facs="tcp:50874:3"/>State</hi> might retain this opinion of me, for otherwiſe they traduce me highly, that I never bore ſuch hate to their <hi>Per<g ref="char:EOLhyphen"/>ſons,</hi> as I bore love to their <hi>Perſonages;</hi> nor ſuch diſ-eſteem to their <hi>Profeſsions,</hi> as I had, and hold ever in my eſtimate of their <hi>Poſſeſſions.</hi> But now my <hi>hydroptick Thirſt</hi> is quenched, my earthly deſires (though much againſt my will) unfortunately ſated; whence I collect with an heavy eye to what I have left behind me, what a vading breath, or light blaſt is this flaſh of Honour; whoſe overſwollen <hi>Bladder</hi> as it puffs us up living, ſo it ſtifles us dying.</p>
+            <p>But it is high time for me now to recollect my ſelf; and look a little <hi>back,</hi> having ſo ſmall a ſpace left me to look <hi>for<g ref="char:EOLhyphen"/>ward:</hi> I may expect a Funeral, but <hi>OLIVERS</hi> vaſt ex<g ref="char:EOLhyphen"/>ceſs uſher'd in with ſuch <hi>ſcorn,</hi> and regiſtered with ſuch <hi>ſhame,</hi> deters me from injoyning too much <hi>coſt,</hi> leſt my Executor might be enforced to pay more than either the price of my <hi>Carcaſs,</hi> or the remnant of my forfeited Eſtate would diſcharge. My <hi>Rebellion,</hi> as this late <hi>Synod</hi> by cutting, and cutting of our late <hi>Rump</hi> ſtyles it, has ſufficiently all the world over <hi>proclai<g ref="char:EOLhyphen"/>med</hi> me <hi>Bankrupt;</hi> it would grieve me to leave my <hi>Heir pro<g ref="char:EOLhyphen"/>teſted againſt,</hi> for a <hi>Veſſel</hi> of crumbled Duſt: which I am con<g ref="char:EOLhyphen"/>fident, will be accompanied by more <hi>Fiends</hi> than <hi>Friends,</hi> more <hi>Followers</hi> than <hi>Mourners:</hi> ſo as in this caſe a Rope of ſtrong-ſented Onions would do excellent ſervice for enforcing <hi>wet-eyes</hi> from <hi>dry hearts:</hi> to pump tears with a few feigned fghs to delude the Spectators at my death; as my actions un<g ref="char:EOLhyphen"/>der a vizard of zeal bravely, though now unfortunately, per<g ref="char:EOLhyphen"/>formed all my life. On which <hi>State-Stage</hi> there is none that ever knew Sir <hi>ARTHUR,</hi> but will ingeniouſly confeſs to his honour, that there was no <hi>Shimei</hi> of all that <hi>Leven,</hi> who acted his part more politickly, nor daringly: nor promoted the Intereſt of the <hi>Good Old Cauſe</hi> with more acrimonious fide<g ref="char:EOLhyphen"/>lity. Upon which account (though <hi>Self-intereſt</hi> turn'd the <hi>wheele</hi> that ſteer'd all my Actions) I behav'd my ſelf in that poſture, and manner, as I was ever held (I appeal to my mor<g ref="char:EOLhyphen"/>talleſt enemies, if this be not true) a moſt uſeful and ſerviceable Inſtrument to the <hi>Antimonarchical Tribe:</hi> and withall ſuch an endeered Favorite to redoubted <hi>OLIVER,</hi> as his ear was as attentive to me, as it was ever to his cloſe faithful Cu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:50874:3"/>St. <hi>Johns;</hi> till he found my averſeneſs from <hi>King-ſhip,</hi> where<g ref="char:EOLhyphen"/>to his vaſt ambition ſubtilely aſpired. Mean time, though I ſtood ever a profeſt enemy unto <hi>Monarchy,</hi> I appeared a con<g ref="char:EOLhyphen"/>ſtant Zealot for a <hi>Pentarchy.</hi> A <hi>Fift-Monarchy-Man</hi> I was cor<g ref="char:EOLhyphen"/>dially, whoſe Spirits now when I am dying ſound in mine ears mortally ſtirring, though my ſhort Leaſe of Life will prevent me from partaking the iſſue of that fair Quarrel. Sure I am, <hi>Phanatick heat</hi> will not be quenched without much blood. This our diſlaughtered <hi>Complices,</hi> who lately ſacrificed their active lives with undaunted valour to the hands of the com<g ref="char:EOLhyphen"/>mon Executioner expected: which my brother <hi>HARRISON</hi> gave a touch of at his death, ſaying, <hi>I ſee the Lord will not ap<g ref="char:EOLhyphen"/>pear to us this day.</hi> But diſcontents muſt not be ſo cured. Our truſty <hi>Phanaticks</hi> hope a day will come, which ſeeing my weak divining Spirit cannon prefine it, I unwillingly leave to thoſe that ſhall live to ſee it.</p>
+            <p>And no doubt but the <hi>diſcontented</hi> Party, ſeconded by our baffled Reformades, and deſperate Decoys of our late disban<g ref="char:EOLhyphen"/>ded Army, may find our impregnant City a ready Foſter-Mo<g ref="char:EOLhyphen"/>ther to nurſe theſe diſtempers in her ranting Racketers (be<g ref="char:EOLhyphen"/>ſides the <hi>winning demureneſs</hi> of our conſcientious <hi>Anabaptiſt,</hi> which will ſtrengthen the Quarrel mainly, and make our <hi>Pha<g ref="char:EOLhyphen"/>natick</hi> ruffle bravely) upon theſe grounds, if not timely diver<g ref="char:EOLhyphen"/>ted, which we hope the <hi>Liberty</hi> of the <hi>time</hi> will ſlowly look into, there is ſmall doubt to be made, but this <hi>teeming age</hi> may breed as many <hi>John Leydons</hi> apt to deſign a freſh <hi>maſſacre</hi> in every circumſtance, equal to that memorable one of <hi>Mun<g ref="char:EOLhyphen"/>ſter.</hi> But to my grief, rhough it be not my fortune to be a <hi>Spe<g ref="char:EOLhyphen"/>ctator</hi> of it, nor <hi>Actor</hi> in it, my <hi>deſires</hi> are as ſtrong as my <hi>fa<g ref="char:EOLhyphen"/>culties</hi> weak. I ſhall ſwell in my wiſhes dying, what I could not atchieve living. But leaving theſe till time ſhall repent them, and poſterity become more ſenſible of them, let me pe<g ref="char:EOLhyphen"/>tition Death (to whoſe arreſt I hold my <hi>Fame</hi> much indebted, for ſnatching me from the claws of ravenous <hi>Dun,</hi>) to reſpit me a little, a very little; my words ſhall be but few; becauſe my hours cannot be many: and theſe ſhall be beſtowed on the diſcovery of my <hi>life;</hi> wherein to unrip my <hi>Infirmities</hi> I hold it needleſs, ſeeing the whole <hi>Iſland</hi> has been long time <hi>Pro<g ref="char:EOLhyphen"/>notory</hi> of them: No Court of Record in all <hi>Weſtminſter,</hi> but
+<pb n="4" facs="tcp:50874:4"/>may bear Record of my reſtleſs <hi>Paſsion;</hi> which theſe <hi>Reverend Judges</hi> would uſually give way to out of their indulgent fa<g ref="char:EOLhyphen"/>vour, being highly taken with the erring tumour of my active State-valour: though <hi>Runaway Downs,</hi> as the <hi>Uſurper</hi> ſome<g ref="char:EOLhyphen"/>times twitted me, may witneſs the contrary. The ſallies and various occurrences of which <hi>Field</hi> were every way as terrible to me, as the encounters of <hi>Death</hi> now approaching me: or <hi>Duns</hi> dreadful attendance upon my feveriſh tryal. Truth is, that in the <hi>height</hi> of my <hi>being,</hi> as I was generally held a <hi>confi<g ref="char:EOLhyphen"/>ding man;</hi> and one that intended to have his <hi>voice,</hi> and <hi>voto</hi> bear ſway; were it <hi>right,</hi> or <hi>wrong,</hi> againſt all <hi>Oppoſers,</hi> there was no Plea, were it legal, or illegal, which I purſu'd, and ex<g ref="char:EOLhyphen"/>pected not a ſucceſsful iſſue: Neither in the proſecution there<g ref="char:EOLhyphen"/>of did I encounter with any affront to my then <hi>imperious power</hi> more diſguſtful, than from thoſe <hi>virulent aſpertions</hi> thrown up<g ref="char:EOLhyphen"/>on me by a tart, but acute <hi>Counſellor;</hi> whoſe <hi>Coife</hi> might au<g ref="char:EOLhyphen"/>thorize him to make bold with me. But, I am perſwaded his ſpleen to my Perſon (having before made it my endeavour to bring him within the compaſs of <hi>Delinquency</hi>) gave more fuel to the fire of his paſsion, than his pretended Zeal to his <hi>Client,</hi> an uſeful Inſtrument to his Profeſſion. I muſt confeſs (and the remembrance of it is ſome <hi>Còroſive</hi> to me) that my acrimony of ſpirit was ſo quickened towards that Gentleman his Client, as I mortally hated him: and by a tedious ſuit (ſo much did my <hi>ſtrength</hi> over-top his <hi>weakneſs</hi>) ſo exhauſted him, for chal<g ref="char:EOLhyphen"/>lenging his own; as I am confident the <hi>cure</hi> will prove worſe than the <hi>diſeaſe;</hi> and that the <hi>recovery</hi> of his <hi>Eſtate</hi> will ſcarce<g ref="char:EOLhyphen"/>ly countervaile the <hi>expenſive charge</hi> of his Suit. For after ſun<g ref="char:EOLhyphen"/>dry <hi>Verdicts</hi> returned for him, I was no wayes deterred, but doubling my Fyles, and reviving my Claim, wherein I found <hi>Saint Johns</hi> ever my indulgent Hearer, whoſe joynt aſſiſtant I had been in all his deſignes My reſolution was not onely to cruſh him with my purſe, whom I could not conquer by the equitable Rule of the Law: But out of my <hi>vindicative ſpirit,</hi> as none more <hi>violent</hi> nor <hi>virulent,</hi> I publickly vowed to <hi>intail</hi> that Suit upon my <hi>Heir</hi> for ever.</p>
+            <p>Neither was my quenchleſs fury onely diſcovered in this, but in aggravating the rackt <hi>Compoſitions</hi> of <hi>Delinquents;</hi> a<g ref="char:EOLhyphen"/>mongſt which my inveterate ſpleen was ſuch to a <hi>Favorite</hi> of
+<pb n="5" facs="tcp:50874:4"/>the <hi>Muſes,</hi> who oppoſed my demands, as I made my ſelf a <hi>Party;</hi> and ſo by degrees brought him to taſte ſharply for his <hi>folly.</hi>
+            </p>
+            <p>To enlarge the number, and meaſure of my practis'd inſo<g ref="char:EOLhyphen"/>lencies; Prophanation of Temples, oppreſſion of Tenants, ex<g ref="char:EOLhyphen"/>tortion in purſuit of Offices ſhall render me unexemplary to all ſucceeding ages. With which <hi>Preſſures</hi> I grew ſo daily mired, as my <hi>Conſcience</hi> became wholly ſeered. The corroding memory whereof makes me appear ignominious in my ſelf, odious to all.</p>
+            <p>Upon review of theſe, my <hi>Funeral Hearſe</hi> (if any ſuch <hi>De<g ref="char:EOLhyphen"/>cency</hi> be admitted me) is to expect only <hi>dry eyes</hi> to accompany it. No Mourner unleſs Squire <hi>Dun</hi> bemoan his own <hi>Intereſt,</hi> for not having a hand in <hi>putting off my</hi> Cloaths. But it was my Phyſitians pious policy by the help of a <hi>Clyſter</hi> to palliate my indangered Fame, and for want of a <hi>Perpendicular Line,</hi> to ſtrip him of his Booty.</p>
+            <p>I ſhould now diſpoſe of my <hi>Eſtate,</hi> but our late <hi>Reformed State</hi> has done me the favour to ſave me a labour: So as I muſt leave mine <hi>Heir</hi> with the <hi>Chamelion</hi> to feed on <hi>Air.</hi>— But my <hi>britle Glaſs</hi> is run out; not one grain of Sand left to ſupply the <hi>Cruet</hi>— Wo is me, ſhall I never ſee <hi>Weſtminſter</hi> more? Muſt my hopes of a <hi>Change,</hi> be changed into heaps of duſt? Oh I ſink, I ſink! And I feel my earthen thoughts ſo heavy, as they cannot fix on ought that is heavenly.— A due to all the world: O how happy I, if I had never known it: or had leſs lov'd it; ſo might I more cheerfully have left it.</p>
+            <q>
+               <l>So good night to Sir <hi>Arthur</hi>
+               </l>
+               <l>With all his debaucht Honour.</l>
+            </q>
+            <q>
+               <l>Hic jacet <hi>Arthurus,</hi> terris nunquam rediturus,</l>
+               <l>Obrutus ut Curis, cognitus arte Furis.</l>
+            </q>
+         </div>
+         <div type="summary">
+            <pb n="6" facs="tcp:50874:5"/>
+            <head>His Supplement portrai'd to life.</head>
+            <p>WOuld you know more of him? Take a ſurvey of his Car<g ref="char:EOLhyphen"/>riage during that too long reign of the <hi>Rump:</hi> where you may hear from all hands in what braving manner this cowardly <hi>Cliuias</hi> bore himſelf. He would not ſtick with an in<g ref="char:EOLhyphen"/>ſolent ſhrug to maintain not only <hi>Anarchy,</hi> but flat <hi>Apoſtacy</hi> with his <hi>Sword.</hi> Though he was never holden for a <hi>Blade-man,</hi> but ſuch a baffled Spirit as He repreſented the face of a Chri<g ref="char:EOLhyphen"/>ſtian in nothing more, then in an inbred fear to be cudgeled out of his incivility.</p>
+            <p>To ſundry deſperate extreams did his furious Paſſion ingage Him; being in no place ſecure, becauſe in no place conſtant to himſelf. So factiouſly active was his <hi>Quick-Silver-Brain,</hi> as his projecting Pate would not ſuffer him to ſleep: His nightly devotions were beſtowed in deviſing new <hi>Utopian</hi> States Prin<g ref="char:EOLhyphen"/>cipl'd to his own <hi>Phanatick Fancie:</hi> and in ſetling theſe ſo <hi>irreſolute,</hi> as the <hi>following day</hi> never approved what the <hi>former day did,</hi> which rendred him as <hi>weak</hi> in <hi>reſolving,</hi> as he was <hi>light</hi> in <hi>deviſing.</hi> He had got the knack of <hi>Preaching,</hi> or <hi>Pra<g ref="char:EOLhyphen"/>ting</hi> rather in <hi>Divinity:</hi> but edified himſelf leaſt in Rules of <hi>Humanity.</hi> In his <hi>beginning,</hi> being then in his <hi>riſing,</hi> he grew ſo familiar with <hi>Oliver,</hi> as he would not ſtick by way of Argu<g ref="char:EOLhyphen"/>ment to coller with him: but the inraged <hi>Tygre</hi> no ſooner <hi>furrowed</hi> his Front, then this feveriſh <hi>Rateun</hi> let fall his Creſt. So ſoon was his ſpriteleſs valour reſolved into fear. His <hi>ſleeps</hi> were <hi>ſhort,</hi> and thoſe <hi>troubled,</hi> ariſing from the vapours of an addle Brain wholly diſordered. But no <hi>Dreams</hi> ſtruck in his thoughts more <hi>terrour,</hi> than the affrightful viſions of a <hi>Tippet,</hi> and a <hi>Mitre.</hi> Theſe call'd him to an <hi>Account</hi> before his time: but having got the <hi>Act</hi> of <hi>Oblivion</hi> by heart; he took it for a Dream, and ſo the viſion vaniſhed.</p>
+            <p>He ſacrilegiouſly removed the <hi>Altar</hi> from <hi>B. A. Church</hi> to his own <hi>Houſe;</hi> under which, to ſave the charge of a <hi>Mo<g ref="char:EOLhyphen"/>nument,</hi> his <hi>Lady</hi> was after buried. And to enlarge his <hi>Propha<g ref="char:EOLhyphen"/>nation,</hi> he razed down to the ground a beautiful <hi>Chappel;</hi> whoſe ſplendor and antiquity might plead a priviledge againſt the
+<pb n="7" facs="tcp:50874:5"/>hand of hoſtility. From the ruines whereof he reared to him<g ref="char:EOLhyphen"/>ſelf a <hi>Dining Parler:</hi> preferring his own licentious humour and ſecular pleaſure before Gods honour. And to ſumme up all in one (for ſhould we inſiſt upon all, they would require an ample Volume) to authoriſe his <hi>Inſolencies;</hi> It is the opinion of many, that he died of a <hi>Cold Palſey,</hi> and very likely:<note place="margin">The proper ſymptoms, or conſequent products of a <hi>Paraletick di<g ref="char:EOLhyphen"/>ſtemper.</hi> Sylv.</note> ſince the whole courſe of his life was over-ſwayed by unſetled Paſ<g ref="char:EOLhyphen"/>ſions, Weakneſs and Levity.</p>
+            <p>Near his <hi>Death</hi> he found more quiet within him, becauſe a <hi>Lethargy</hi> had ſeaz'd on him. So far did his <hi>Diſeaſe</hi> afford him <hi>Eaſe;</hi> wherein he might juſtly cry out with that phrentick for<g ref="char:EOLhyphen"/>lorn Ethnick: <hi>O that this Diſtemper would never leave me!</hi> But like a <hi>Lightning</hi> before <hi>death,</hi> or a <hi>Beamling</hi> ſtriking forth before a <hi>ſtorm:</hi> heaving himſelf up a little; and drawing his breath ſlowly, as one approaching near ſhore, after a <hi>deep groan</hi> fetcht from a burthened ſoul, He ſhut up all with this <hi>ſad</hi> but <hi>ſuitable</hi> farewel; <hi>I am paſsing; I am paſsing; but I know not whither: Oh that I might ſojourn here for ever!</hi>
+            </p>
+         </div>
+         <div type="poems">
+            <div type="poem">
+               <head>
+                  <hi>SUPER OSSA</hi> Olivari Cromwelli, Bradſhai, Iretoni, <hi>&amp;c.</hi>
+               </head>
+               <head type="sub">Nuperrimè exhumata, &amp; condig<g ref="char:EOLhyphen"/>nis Exequiis tradita.</head>
+               <l>UT venti ſonuere graves à morte <hi>Tyranni,</hi>
+               </l>
+               <l>Murmure conſpirant <hi>Oſſa levata</hi> pari.</l>
+               <l>Talia ſi terris formidine plena miniſtres,</l>
+               <l>Qualia tartariis fers, <hi>Olivare,</hi> locis?</l>
+               <l>Ionis, Sulphur erunt, &amp; ſpiritus ipſe Procellae</l>
+               <l>Portio; num ſapiunt naribus iſta tuis?</l>
+               <l>Quas <hi>Bradſhawus</hi> opes? quas <hi>Ireton</hi> ſuſtulit iras?</l>
+               <l>Qui ſceleris ſocii, ſuppliciique tui.</l>
+               <l>Quid tibi Nauta <hi>Blagus?</hi> quid <hi>Pridux,</hi> Conſul equeſtris?</l>
+               <l>
+                  <hi>Pridus? Baxterus? Huſoniuſque? Whalus?</hi>
+               </l>
+               <l>Quam tibi <hi>Coetus</hi> opem tribuit? quam de Styge portam</l>
+               <l>Aperiet reducem? Deſine; claude viam.</l>
+               <pb n="8" facs="tcp:50874:6"/>
+               <l>Nulla ſalus miſeris; ſpes nulla relicta ſalutis,</l>
+               <l>Nec tibi, nec ſociis reſtituenda quies.</l>
+               <l>Seimus ab Inferno conceſſa Redemptio nulla eſt.</l>
+               <l>Novimus enſe tua ferre; perinde pati.</l>
+            </div>
+            <div type="poem">
+               <head>Upon <hi>OLIVERS</hi> Bones; and his two Complices <hi>Tyburn'd,</hi> January <hi>30, 1660.</hi>
+               </head>
+               <lg>
+                  <l>FRom the <hi>Red-Lyon</hi> was this <hi>Leopard</hi> brought,</l>
+                  <l>Where <hi>He</hi> was wont to mount before He fought.</l>
+                  <l>A fitter <hi>Iune</hi> could not deviſed bee</l>
+                  <l>For <hi>NOL</hi> to mount the <hi>Sledge</hi> to th' Triple Tree.</l>
+               </lg>
+               <lg>
+                  <head>Epitaph.</head>
+                  <l>Here hangs his Trunk, whoſe <hi>reſtleſs Bones</hi> could have</l>
+                  <l>No ground, but under <hi>Tyburn</hi> for a Grave.</l>
+                  <l>
+                     <hi>Firſt time</hi> inſhrin'd like to ſome Brittiſh King,</l>
+                  <l>
+                     <hi>Next</hi> with diſhonour pendent in a ſtring.</l>
+                  <l>Two <hi>Conſorts</hi> there appear who hang beſide him,</l>
+                  <l>Being ſo dear 'twere pity to divide them.</l>
+                  <l>Thus <hi>Fate</hi> has ſhred that threed which <hi>Fury</hi> ſpun,</l>
+                  <l>Hang'd <hi>without ſuffering</hi> by the hand of <hi>Dun.</hi>
+                  </l>
+                  <l>To them ask why theſe <hi>Rebels</hi> hang ſo high?</l>
+                  <l>
+                     <hi>Treaſon</hi> mounts higher ſtill then <hi>Felony.</hi>
+                  </l>
+                  <l>Mourn <hi>Mercer, Draper</hi> with diſtilling Eyes,</l>
+                  <l>Or with ſad looks inſtead of Elegies.</l>
+                  <l>
+                     <hi>Habits</hi> muſt pay themſelves, penurious <hi>Dick</hi>
+                  </l>
+                  <l>Defrayes all ſcores; how? in <hi>Arithmetick.</hi>
+                  </l>
+                  <l>But heark my Boyes, if you have wit to call</l>
+                  <l>In time, old <hi>BESS</hi> has ſtuff to pay you all.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <lg>
+                  <head>Protector, Praeſes, Conſul, Lictor<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Tyburnus</head>
+                  <l>
+                     <hi>Funeris officiis ſuccubuere ſuis.</hi>
+                  </l>
+                  <l>
+                     <hi>Iſte parat laqueos, laqueis Hi corpora tendunt;</hi>
+                  </l>
+                  <l>
+                     <hi>Lictor ut infligit, perfida Turba ruit.</hi>
+                  </l>
+                  <pb n="9" facs="tcp:50874:6"/>
+                  <l>
+                     <hi>Ecce conſortes ſcelerumque morum</hi>
+                  </l>
+                  <l>
+                     <hi>Naribus tetrum pariunt vaporem,</hi>
+                  </l>
+                  <l>
+                     <hi>Traxit ut</hi> Dunnus <hi>retulit ſaporem</hi>
+                  </l>
+                  <l>
+                     <hi>Lerna malorum.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Lo! lo! to what corruption <hi>Traiters</hi> ſink!</l>
+                  <l>Divert your <hi>Senſe; Dun</hi> ſtirs them till they ſtink.</l>
+               </lg>
+               <lg>
+                  <head>No Infection like Rebellion.</head>
+                  <l>
+                     <hi>Iack Cutts</hi> bemoans this <hi>hanging,</hi> for his Wench</l>
+                  <l>Was ſtruck to th' heart by that Rebellious ſtench.</l>
+                  <l>So as thoſe <hi>Trayters</hi> may be counted th' Head,</l>
+                  <l>Who <hi>ſlaughter'd</hi> living, and who <hi>poys'ned</hi> dead.</l>
+                  <l>For <hi>Treaſon</hi> is of that <hi>contagious</hi> nature,</l>
+                  <l>No Carrion ſmells like th' Carcaſs of a Traiter.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <l>Redde <hi>Sinonem</hi> ſimilem per Orbem,</l>
+               <l>Subditis trietem, Superis prophanum,</l>
+               <l>Vel magis curſu temerè ferocem</l>
+               <l>Principis hoſtem!</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
